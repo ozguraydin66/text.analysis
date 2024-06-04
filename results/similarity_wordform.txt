@@ -1,0 +1,40 @@
+
+ Jaccard similarity 
+
+ ------------------ 
+
+ Text 1b vs. Text 2b in informative texts: 0.5426829 
+
+ Text 2b vs. Text 3b in informative texts: 0.2186047 
+
+ Text 1b vs. Text 3b in informative texts: 0.2042553 
+
+
+
+ Text 1a vs. Text 2a in narrative texts: 0.2838983 
+
+ Text 2a vs. Text 3a in narrative texts: 0.3378995 
+
+ Text 1a vs. Text 3a in narrative texts: 0.6093023 
+
+
+
+ Cousine similarity 
+
+ ------------------ 
+
+ Text 1b vs. Text 2b in informative texts: 0.7478432 
+
+ Text 2b vs. Text 3b in informative texts: 0.5228554 
+
+ Text 1b vs. Text 3b in informative texts: 0.5771042 
+
+
+
+ Text 1 vs. Text 2 in narrative texts: 0.5020573 
+
+ Text 2 vs. Text 3 in narrative texts: 0.5889844 
+
+ Text 1 vs. Text 3 in narrative texts: 0.7590614 
+
+

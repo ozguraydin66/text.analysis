@@ -1,0 +1,4 @@
+variable	statistic	p	measure.type
+1	measuretype	0.504347002000631	2.16947430885714e-46	Freq.Norm
+2	measuretype	0.83305474306121	2.14150924531318e-31	OLD20
+3	measuretype	0.851561103577911	6.1658134106402e-30	Bigram.Mean
